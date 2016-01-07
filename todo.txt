@@ -1,0 +1,17 @@
+Objective
+===============
+1. To be able to write a program in python
+2. To be able to write a code that can calculate some equation
+3. To be able to use conditional operator
+4. To be able to use loop
+5. To be able to handle array
+6. To be able to plot in 2D
+Additional
+i. Writing with documentation
+ii. Concept of module
+iii. Difference between hard code and soft code
+
+1. Prepare Lecture notes
+2. Prepare algorithm
+3. Prepare code
+4. Prepare documentation
