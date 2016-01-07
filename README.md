@@ -1,3 +1,3 @@
 # workshop_python
 
-This git is created for the workshop purpose.
+This git is created for a scientific workshop purpose. The basic objective of this workshop is to make the attendee able to write a programing code in python.
