@@ -7,6 +7,8 @@ The height/altitude of the satellite can be given as
 h = (GMT^2/4pi^2)^(1/3) - R
 
 where G = 6.67x10^(-11) m^3kg^-1s^-2, M = 5.97x10^24 kg and R = 6371 km.
+
+What would be the velocity if time period is defined?
 '''
 pi = 3.1416
 G = 6.67e-11
