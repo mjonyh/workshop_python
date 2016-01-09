@@ -1,5 +1,6 @@
 '''
 Exercise 1:
+------------------------------------------------------------------------
 
 For a satellite, orbiting around the earth with a time period, T.
 The height/altitude of the satellite can be given as
