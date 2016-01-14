@@ -24,7 +24,9 @@ h = (nume/denom)**(1./3.) - R
 
 print 'If the time period is ', T, ' s, altitude will be ', h, ' m'
 
-
+'''
+Checck for the height
+'''
 
 if h < 0:
     print '\n Negative height!\n'
